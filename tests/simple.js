@@ -11,7 +11,7 @@
         //browser.useXpath()
         browser.setValue(xpathselector,"This is xpath");
         browser.pause(2000);
-        browser.end()
+        browser.end();
     },
 
 
